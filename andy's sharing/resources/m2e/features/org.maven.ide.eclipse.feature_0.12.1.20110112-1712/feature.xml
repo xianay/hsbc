@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.maven.ide.eclipse.feature"
+      label="Maven Integration for Eclipse (Required)"
+      version="0.12.1.20110112-1712"
+      provider-name="Sonatype, Inc."
+      plugin="org.maven.ide.eclipse">
+   <install-handler/>
+
+   <description url="http://m2eclipse.sonatype.org/">
+      Maven integration. Launching Maven from Eclipse, dependency management and search.
+   </description>
+
+   <copyright url="http://www.sonatype.com/">
+      Copyright (c) 2008 Sonatype, Inc.
+   </copyright>
+
+   <license url="http://www.eclipse.org/legal/epl-v10.html">
+      All rights reserved. This program and the accompanying materials
+are made available under the terms of the Eclipse Public License
+v1.0 which accompanies this distribution, and is available at
+http://www.eclipse.org/legal/epl-v10.html
+   </license>
+
+   <requires>
+      <import plugin="org.eclipse.emf.ecore"/>
+      <import plugin="org.eclipse.emf.ecore.xmi"/>
+      <import plugin="org.eclipse.emf.edit"/>
+      <import plugin="org.eclipse.emf.ecore.edit"/>
+      <import plugin="org.eclipse.wst.common.emf"/>
+      <import plugin="org.eclipse.wst.sse.core"/>
+      <import plugin="org.eclipse.wst.xml.core"/>
+      <import plugin="org.eclipse.jem.util"/>
+      <import feature="org.eclipse.platform" version="3.3.0" match="greaterOrEqual"/>
+      <import feature="org.eclipse.rcp" version="3.3.0" match="greaterOrEqual"/>
+      <import feature="org.eclipse.jdt" version="3.3.0" match="greaterOrEqual"/>
+   </requires>
+
+   <plugin
+         id="org.maven.ide.eclipse.archetype_common"
+         download-size="1822"
+         install-size="2019"
+         version="0.12.1.20110112-1712"/>
+
+   <plugin
+         id="org.maven.ide.eclipse.nexus_indexer"
+         download-size="772"
+         install-size="851"
+         version="0.12.1.20110112-1712"/>
+
+   <plugin
+         id="org.maven.ide.eclipse.maven_model_edit"
+         download-size="388"
+         install-size="1317"
+         version="0.12.1.20110112-1712"
+         unpack="false"/>
+
+   <plugin
+         id="org.maven.ide.eclipse"
+         download-size="933"
+         install-size="1952"
+         version="0.12.1.20110112-1712"
+         unpack="false"/>
+
+   <plugin
+         id="org.maven.ide.eclipse.pr"
+         download-size="1699"
+         install-size="1963"
+         version="0.12.1.20110112-1712"
+         unpack="false"/>
+
+   <plugin
+         id="org.maven.ide.eclipse.launching"
+         download-size="80"
+         install-size="162"
+         version="0.12.1.20110112-1712"
+         unpack="false"/>
+
+   <plugin
+         id="org.maven.ide.eclipse.jdt"
+         download-size="118"
+         install-size="261"
+         version="0.12.1.20110112-1712"
+         unpack="false"/>
+
+   <plugin
+         id="org.maven.ide.eclipse.dependency_tree"
+         download-size="34"
+         install-size="42"
+         version="0.12.1.20110112-1712"/>
+
+   <plugin
+         id="org.maven.ide.eclipse.editor"
+         download-size="625"
+         install-size="1298"
+         version="0.12.1.20110112-1712"
+         unpack="false"/>
+
+   <plugin
+         id="org.maven.ide.eclipse.editor.xml"
+         download-size="89"
+         install-size="178"
+         version="0.12.1.20110112-1712"
+         unpack="false"/>
+
+   <plugin
+         id="org.maven.ide.eclipse.maven_embedder"
+         download-size="3737"
+         install-size="4226"
+         version="0.12.1.20110112-1712"/>
+
+   <plugin
+         id="org.maven.ide.eclipse.refactoring"
+         download-size="54"
+         install-size="111"
+         version="0.12.1.20110112-1712"
+         unpack="false"/>
+
+</feature>

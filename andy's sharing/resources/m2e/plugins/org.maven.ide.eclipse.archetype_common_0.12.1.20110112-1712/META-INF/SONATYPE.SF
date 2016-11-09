@@ -1,0 +1,46 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: B0itP4pkZevMXN7X8h7UZX1rfYk=
+Created-By: 1.6.0_12 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: NX7d9v/Ed/t8ArVqtsyJI+tUCDU=
+
+Name: jars/jdom-1.0.jar
+SHA1-Digest: cZstPkLn3H9fogycaWbEu/EvIdc=
+
+Name: jars/velocity-1.5.jar
+SHA1-Digest: nSvDAbaSc9tRzkqk22JSMaetW98=
+
+Name: jars/commons-lang-2.1.jar
+SHA1-Digest: DD/1whtORxogWXbp7m0NWiy8M0U=
+
+Name: META-INF/plexus/.gitignore
+SHA1-Digest: zWJJx/hV8IVYiwPoqwNFFJMxxU8=
+
+Name: jars/archetype-common-2.0-alpha-4.jar
+SHA1-Digest: SFZoBjmUHgcdEANtC52Wu2rRvuU=
+
+Name: jars/plexus-velocity-1.1.3.jar
+SHA1-Digest: eKQYC5lNIh9jSCJIhFMYDD0yP+I=
+
+Name: jars/dom4j-1.6.1.jar
+SHA1-Digest: ORKwFEvNDzPEiumL6zUwCmjB2J0=
+
+Name: jars/oro-2.0.8.jar
+SHA1-Digest: PK4xfuJmPaGHNpNE3mYSFOJOLkU=
+
+Name: jars/jchardet-1.0.jar
+SHA1-Digest: pWUsnVWnC5ibUvLOun3CJUmreAI=
+
+Name: jars/commons-collections-3.2.jar
+SHA1-Digest: LD7ASneDMzWHyRVSdj92QCw5Rlg=
+
+Name: META-INF/maven/org.maven.ide.eclipse/org.maven.ide.eclipse.arche
+ type_common/pom.xml
+SHA1-Digest: s0KRWZX06/j4OD6B9YKd3I/k1BA=
+
+Name: META-INF/maven/org.maven.ide.eclipse/org.maven.ide.eclipse.arche
+ type_common/pom.properties
+SHA1-Digest: SgcW4BN4MPw1J9g281GbE4TEWn8=
+
+Name: jars/commons-io-1.3.1.jar
+SHA1-Digest: gfVDjNWCVRSsDkhSFiSIqBCf1Uk=
+

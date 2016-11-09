@@ -1,0 +1,22 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: t9f6qTblgQap+oiKe22/QmLaBQA=
+Created-By: 1.6.0_12 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: 04mrZXPT8G/XSckZSx8wPgW4Kwk=
+
+Name: META-INF/maven/org.maven.ide.eclipse/org.maven.ide.eclipse.nexus
+ _indexer/pom.properties
+SHA1-Digest: yYkGZmJ12tB2V+BJot4GqQYj2B0=
+
+Name: jars/lucene-core-2.3.2.jar
+SHA1-Digest: ufl/3hqAboYEdvwpNjANk/rdR2Q=
+
+Name: jars/nexus-indexer-2.0.5-SNAPSHOT.jar
+SHA1-Digest: 85yNj8NHPObb6BI9SsXfl9ls3oE=
+
+Name: META-INF/plexus/.gitignore
+SHA1-Digest: zWJJx/hV8IVYiwPoqwNFFJMxxU8=
+
+Name: META-INF/maven/org.maven.ide.eclipse/org.maven.ide.eclipse.nexus
+ _indexer/pom.xml
+SHA1-Digest: LgAGXawuehxFQEXnXjgQycDSaPA=
+
